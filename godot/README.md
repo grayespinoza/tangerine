@@ -9,5 +9,7 @@
 3. Use
    - Base Color: `#1b1b1b`
    - Accent Color: `#fe640b`
+   - Contrast: `0.25`
+   - Icon Saturation: `2.0`
 
 ### Text Editor Theme
